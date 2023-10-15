@@ -1,4 +1,4 @@
-# NLP-Project - Movies
+# NLP-Project - Movie Recommendation
 
 The task was to create a function to return which movies a user would watch
 next if they have watched Planet Hulk with the description “Will he save
